@@ -5,7 +5,7 @@ Data analyst | Project Manager | AI enthusiast
 -----------------------------
 
 I've been working in technology for the last 5 years, with customer project management and emerging technologies (AI, video comms, apps). After working with customer behaviour analysis and revenue reporting I have found a passion for data led analysis. Currently enrolled in a Data Bootcamp with JustIT Training. I have completed several data projects using Excel, SQL, Python, R, Tableau and PowerBI. </p>
-**Key skills:** Experienced with data projects in technology to ensure data led decisions, analytical approach, problem solving skills, highly customer focused, able to work collaboratively in agile settings working with constant change and emerging technologies. </p>**Software:** Asana, Zendesk, SFDC, HubSpot, Clari, Looker, Miro, Power BI, MySQL, Excel, learning Python, Pandas, R.
+**Key skills:** Experienced with data projects in technology to ensure data led decisions, analytical approach, problem solving, highly customer focused, able to work collaboratively in agile settings working with constant change and emerging technologies. </p>**Software:** Asana, Zendesk, SFDC, HubSpot, Clari, Looker, Miro, Power BI, MySQL, Excel, learning Python, Pandas, R.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [louiseslattery111@gmail.com](mailto:louiseslattery111@gmail.com)
