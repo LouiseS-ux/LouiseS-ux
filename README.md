@@ -17,7 +17,7 @@ I've been working in technology for the last 5 years, with customer project mana
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMmM1MTFjMWYtNjg4MS00NTE2LWJlMmEtNDA5MmRhMjM1NTgyIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9" target="_blank" rel="noreferrer; return false;">
  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>&nbsp;&nbsp;
-   <a href="https://public.tableau.com/views/FirstAssignmentTableaubackup1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
+   <a href="https://public.tableau.com/views/GDPLifeExpectancyanalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
 </p>
 
 ### Skills
